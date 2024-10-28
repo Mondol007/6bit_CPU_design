@@ -11,4 +11,4 @@
 **Designed using Digital** \
 To view the final circuit, open the file `6 Bit CPU` using Digital.
 
-![6 Bit CPU]([Circuit%20Block%20pictures/6bit%20CPU.png]
+![6 Bit CPU]([(https://github.com/Mondol007/6bit_CPU_design/blob/main/Circuit%20Block%20pictures/6bit%20CPU.png)]
