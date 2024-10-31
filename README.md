@@ -1,4 +1,3 @@
-
 # 6-Bit CPU Design (Computer Architecture)
 
 ### Key Specifications:
